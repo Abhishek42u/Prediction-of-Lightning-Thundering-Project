@@ -11,7 +11,7 @@
 <h3>Team Name: Ghostfreak</h3>
   <h6>Team Members:</h6>
   <p><a href="https://github.com/archana0708">Abhishek Thakur</a></p>
-<p><a href="https://github.com/ANKITSPANDEY">Priyanshu Singh</a></p>
+<p><a href="">Priyanshu Singh</a></p>
 <p><a href="https://github.com/itz-arnav">Arnab Kumar Jha</a></p>
 <p><a href="https://github.com/ayantika-111">Ayantika Dhuya</a></p>
 <p><a href="https://github.com/mdfaizan1999">MD Faizan Ansari</a></p>
