@@ -1,7 +1,7 @@
 # Prediction-of-Lightning-Thundering-Project
 
 # Ghostfreak
-<h4>SAP Semicolon; Hackathon 5.0</h4>
+<!-- <h4>SAP Semicolon; Hackathon 5.0</h4> -->
 
 ℹ️ Project Information
 <h2> Project Title: Smart Lightning Prediction and Alert System </h2>
