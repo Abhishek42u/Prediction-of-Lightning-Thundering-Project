@@ -1,6 +1,6 @@
 # Prediction-of-Lightning-Thundering-Project
 
-# dexterous_squad
+# Ghostfreak
 <h4>SAP Semicolon; Hackathon 5.0</h4>
 
 ℹ️ Project Information
