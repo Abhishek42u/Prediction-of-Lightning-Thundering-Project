@@ -8,7 +8,7 @@
 
 <h5> Short Project Description: An Android and Web app to actively predict the occurrence of lightning strike in an area using Web scraping and Machine Learning algorithms to alert its users via automated Calls / SMS in time. </h5> 
 <div>
-<h3>Team Name: Dexterous Squad</h3>
+<h3>Team Name: Ghostfreak</h3>
   <h6>Team Members:</h6>
   <p><a href="https://github.com/archana0708">Abhishek Thakur</a></p>
 <p><a href="https://github.com/ANKITSPANDEY">Priyanshu Singh</a></p>
@@ -18,10 +18,10 @@
 </div>  
 <div>  
 <!-- Demo Link: http://13.126.31.37:8000 -->
-<p>PPT : https://drive.google.com/file/d/1TpKfB38a6ADbR1zaxpbHaD0C12uHqkYm/view?usp=sharing</p>
+<!-- <p>PPT : https://drive.google.com/file/d/1TpKfB38a6ADbR1zaxpbHaD0C12uHqkYm/view?usp=sharing</p> -->
 <p>Demo :https://drive.google.com/file/d/1QA7l8jEdPUCxGHVASpCk_J1MQVqvPLfw/view?usp=sharing</p>
-<p>Repository Link:https://github.com/ANKITSPANDEY/dexterous_squad</p>
-<P>Drive link: https://drive.google.com/drive/folders/1_yztwLdDDgCURO8WwpduQaQ_3DGETVgm?usp=sharing</p>
+<!-- <p>Repository Link:https://github.com/ANKITSPANDEY/dexterous_squad</p> -->
+<!-- <P>Drive link: https://drive.google.com/drive/folders/1_yztwLdDDgCURO8WwpduQaQ_3DGETVgm?usp=sharing</p> -->
 </div>    
 
 
