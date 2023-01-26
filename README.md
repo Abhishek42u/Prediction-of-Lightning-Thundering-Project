@@ -10,7 +10,7 @@
 <div>
 <h3>Team Name: Ghostfreak</h3>
   <h6>Team Members:</h6>
-  <p><a href="https://github.com/archana0708">Abhishek Thakur</a></p>
+  <p><a href="https://github.com/Abhishek42u">Abhishek Thakur</a></p>
 <p><a href="https://github.com/priyanshudhoni">Priyanshu Singh</a></p>
 <p><a href="https://github.com/itz-arnav">Arnab Kumar Jha</a></p>
 <p><a href="https://github.com/ayantika-111">Ayantika Dhuya</a></p>
